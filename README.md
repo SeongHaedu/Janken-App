@@ -9,7 +9,7 @@
     <a href="https://seonghaedu.github.io/K.Code/">
         <img alt="Documentation" src="https://img.shields.io/website/http/huggingface.co/transformers/index.html.svg?down_color=red&down_message=offline&up_message=online">
     </a>
-    <a href="https://github.com/huggingface/transformers/blob/master/LICENSE">
+    <a href="https://github.com/SeongHaedu/Janken-App/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/transformers.svg?color=blue">
     </a>
 </p>

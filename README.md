@@ -18,6 +18,13 @@
 
 https://user-images.githubusercontent.com/43167769/123202438-91018400-d4ef-11eb-84ca-9c1f3f7657b1.mov
 
+# Contact me
+
+Please send an E-mail for me and check my website "K.Code" if you want to learn how this app is made.
+
+## K.Code
+
+* https://seonghaedu.github.io/K.Code/
 
 # Author
  
